@@ -1,0 +1,241 @@
+Timestamp,Crop,AvgTemperature_C,AvgRainfall_mm,AvgHumidity_,CropSuccess,Location
+2023-01,Beans,25.8,1150,68,1,Edo
+2023-02,Beans,26.3,1180,69,1,Delta
+2023-03,Beans,26.7,1220,70,1,Oyo
+2023-04,Beans,27.2,1250,71,1,Kogi
+2023-05,Beans,27.6,1280,72,0,Ekiti
+2023-06,Beans,28,1300,73,0,Katsina
+2023-07,Beans,26.5,1200,70,1,Lagos
+2023-08,Beans,28.1,1300,72,0,Sokoto
+2023-09,Beans,27,1100,65,1,Benue
+2023-10,Beans,26.1,1130,67,1,Bauchi
+2023-11,Beans,25.5,1100,66,1,Zamfara
+2023-12,Beans,25,1080,65,1,Niger
+2024-01,Beans,25.2,1100,66,1,Zamfara
+2024-02,Beans,25.7,1130,67,1,Adamawa
+2024-03,Beans,26.2,1170,68,1,FCT
+2024-04,Beans,26.8,1210,69,1,Cross River
+2024-05,Beans,27.3,1240,70,1,Rivers
+2024-06,Beans,27.8,1270,71,0,FCT
+2024-07,Beans,28.2,1290,72,0,Lagos
+2024-08,Beans,27.7,1260,71,0,Zamfara
+2024-09,Beans,27.1,1220,69,1,Kebbi
+2024-10,Beans,26.4,1180,68,1,Abia
+2024-11,Beans,25.9,1140,67,1,Akwa Ibom
+2024-12,Beans,25.3,1110,66,1,Bauchi
+2023-01,Cassava,26,1050,63,1,Taraba
+2023-02,Cassava,26.4,1080,64,1,FCT
+2023-03,Cassava,26.9,1120,65,1,Kaduna
+2023-04,Cassava,27.3,1150,66,1,Kaduna
+2023-05,Cassava,27.8,1180,67,1,Sokoto
+2023-06,Cassava,28.2,1200,68,0,Kaduna
+2023-07,Cassava,26.8,1100,65,1,Ekiti
+2023-08,Cassava,28,1350,75,0,Cross River
+2023-09,Cassava,27.5,1150,70,1,Ekiti
+2023-10,Cassava,26.3,1080,64,1,Taraba
+2023-11,Cassava,25.7,1050,63,1,Zamfara
+2023-12,Cassava,25.2,1030,62,1,Yobe
+2024-01,Cassava,25.4,1050,63,1,Nasarawa
+2024-02,Cassava,25.9,1080,64,1,Anambra
+2024-03,Cassava,26.4,1120,65,1,Delta
+2024-04,Cassava,27,1160,66,1,Rivers
+2024-05,Cassava,27.5,1190,67,1,Kebbi
+2024-06,Cassava,28,1220,68,0,Anambra
+2024-07,Cassava,28.4,1240,69,0,Sokoto
+2024-08,Cassava,27.9,1210,68,0,Imo
+2024-09,Cassava,27.3,1170,66,1,Imo
+2024-10,Cassava,26.6,1130,65,1,Abia
+2024-11,Cassava,26.1,1090,64,1,Cross River
+2024-12,Cassava,25.5,1060,63,1,Kebbi
+2023-01,Tomato,23.5,900,57,1,Ekiti
+2023-02,Tomato,24,930,58,1,Imo
+2023-03,Tomato,24.5,970,59,1,Zamfara
+2023-04,Tomato,25,1000,60,1,Ekiti
+2023-05,Tomato,25.5,1030,61,1,Edo
+2023-06,Tomato,26,1050,62,1,Kano
+2023-07,Tomato,26.5,1070,63,1,Kaduna
+2023-08,Tomato,27,1100,64,0,Kebbi
+2023-09,Tomato,26.5,1070,63,1,Oyo
+2023-10,Tomato,25.5,1030,61,1,Bauchi
+2023-11,Tomato,24.5,970,59,1,Enugu
+2023-12,Tomato,24,930,58,1,Osun
+2024-01,Tomato,23.7,910,57,1,Anambra
+2024-02,Tomato,24.2,950,58,1,Enugu
+2024-03,Tomato,24.8,990,59,1,Ekiti
+2024-04,Tomato,25.3,1020,60,1,Delta
+2024-05,Tomato,25.8,1050,61,1,Enugu
+2024-06,Tomato,26.3,1070,62,1,Taraba
+2024-07,Tomato,26.8,1090,63,0,Niger
+2024-08,Tomato,26.3,1070,62,1,Delta
+2024-09,Tomato,25.7,1040,61,1,Rivers
+2024-10,Tomato,25,1000,60,1,Benue
+2024-11,Tomato,24.3,960,59,1,Zamfara
+2024-12,Tomato,23.8,920,58,1,Kano
+2023-01,Potato,21.5,850,53,1,Kogi
+2023-02,Potato,22,880,54,1,Ebonyi
+2023-03,Potato,22.5,920,55,1,Imo
+2023-04,Potato,23,950,56,1,Bayelsa
+2023-05,Potato,23.5,980,57,1,Lagos
+2023-06,Potato,24,1000,58,1,Ekiti
+2023-07,Potato,24.5,1020,59,1,Osun
+2023-08,Potato,25,1050,60,0,Cross River
+2023-09,Potato,22.5,900,55,1,Borno
+2023-10,Potato,23,950,58,0,Lagos
+2023-11,Potato,24.5,1000,60,1,Osun
+2023-12,Potato,22,880,54,1,Kwara
+2024-01,Potato,21.7,860,53,1,Bayelsa
+2024-02,Potato,22.2,900,54,1,Abia
+2024-03,Potato,22.8,940,55,1,Plateau
+2024-04,Potato,23.3,970,56,1,Anambra
+2024-05,Potato,23.8,1000,57,1,Kaduna
+2024-06,Potato,24.3,1020,58,1,Borno
+2024-07,Potato,24.8,1040,59,0,Ebonyi
+2024-08,Potato,24.3,1020,58,1,Delta
+2024-09,Potato,23.7,990,57,1,Borno
+2024-10,Potato,23,950,56,1,Bauchi
+2024-11,Potato,22.3,910,55,1,Rivers
+2024-12,Potato,21.8,870,54,1,Delta
+2023-01,Sweet Potato,24.5,950,58,1,Akwa Ibom
+2023-02,Sweet Potato,25,980,59,1,FCT
+2023-03,Sweet Potato,25.5,1020,60,1,Bauchi
+2023-04,Sweet Potato,26,1050,61,1,Bayelsa
+2023-05,Sweet Potato,26.5,1080,62,1,Gombe
+2023-06,Sweet Potato,25.5,1000,60,1,Gombe
+2023-07,Sweet Potato,26,1050,62,0,Benue
+2023-08,Sweet Potato,27.5,1250,68,1,Zamfara
+2023-09,Sweet Potato,27,1100,63,1,Edo
+2023-10,Sweet Potato,26,1050,61,1,Benue
+2023-11,Sweet Potato,25,980,59,1,Rivers
+2023-12,Sweet Potato,24.5,950,58,1,Yobe
+2024-01,Sweet Potato,24.7,960,58,1,FCT
+2024-02,Sweet Potato,25.2,1000,59,1,Zamfara
+2024-03,Sweet Potato,25.8,1040,60,1,Benue
+2024-04,Sweet Potato,26.3,1070,61,1,Bayelsa
+2024-05,Sweet Potato,26.8,1100,62,1,Ebonyi
+2024-06,Sweet Potato,27.3,1120,63,0,Benue
+2024-07,Sweet Potato,27.8,1140,64,0,Kaduna
+2024-08,Sweet Potato,27.3,1120,63,1,Osun
+2024-09,Sweet Potato,26.7,1090,62,1,Ogun
+2024-10,Sweet Potato,26,1050,61,1,Bauchi
+2024-11,Sweet Potato,25.3,1010,60,1,Kano
+2024-12,Sweet Potato,24.8,970,59,1,Imo
+2023-01,Rice,24.2,1400,75,1,Katsina
+2023-02,Rice,29.9,1500,78,1,Sokoto
+2023-03,Rice,28.7,1600,80,1,Kebbi
+2023-04,Rice,25.2,1550,85,0,Ebonyi
+2023-05,Rice,27.7,1450,90,0,Sokoto
+2023-01,Rice,29.5,600,65,1,Delta
+2023-02,Rice,29.3,700,67,1,Jigawa
+2023-03,Rice,27.4,800,70,1,Yobe
+2023-04,Rice,27.7,900,75,1,Kogi
+2023-05,Rice,24.9,1000,80,0,Akwa Ibom
+2023-01,Rice,29.7,850,65,1,Katsina
+2023-02,Rice,27.6,900,67,1,Ekiti
+2023-03,Rice,27,950,70,1,Benue
+2023-04,Rice,28.2,980,75,0,Ondo
+2023-05,Rice,30,1000,78,0,Bayelsa
+2023-01,Rice,26.2,1100,68,1,Gombe
+2023-02,Rice,29,1200,70,1,Rivers
+2023-03,Rice,26.2,1300,72,1,Borno
+2023-04,Rice,29.2,1400,75,1,Abia
+2023-05,Rice,25.6,1500,80,0,Oyo
+2023-01,Maize,26.2,650,60,1,Niger
+2023-02,Maize,27.6,700,62,1,Kebbi
+2023-03,Maize,24.6,750,65,1,Jigawa
+2023-04,Maize,25.9,800,67,0,Rivers
+2023-05,Maize,28,850,70,0,Ebonyi
+2023-01,Maize,27.1,1800,80,1,Jigawa
+2023-02,Maize,24.2,2000,82,1,Ogun
+2023-03,Maize,28.1,2200,85,1,Kano
+2023-04,Maize,25.1,2500,87,1,Gombe
+2023-05,Maize,29.9,2700,90,1,Taraba
+2023-01,Maize,26.3,1400,75,1,Sokoto
+2023-02,Maize,25.6,1500,78,1,Abia
+2023-03,Maize,25.6,1600,80,1,Yobe
+2023-04,Maize,26.6,1550,85,0,Edo
+2023-05,Maize,25.3,1450,90,0,Rivers
+2023-01,Maize,26.4,600,65,1,Ondo
+2023-02,Maize,25.6,700,67,1,Oyo
+2023-03,Maize,25.3,800,70,1,Ekiti
+2023-04,Maize,28.9,900,75,1,Benue
+2023-05,Maize,27.8,1000,80,0,Katsina
+2023-01,Okra,28.9,850,65,1,Ondo
+2023-02,Okra,26.8,900,67,1,Katsina
+2023-03,Okra,25.3,950,70,1,Sokoto
+2023-04,Okra,29.5,980,75,0,Abia
+2023-05,Okra,26.4,1000,78,0,Kwara
+2023-01,Okra,28.7,1100,68,1,Abia
+2023-02,Okra,29.8,1200,70,1,Yobe
+2023-03,Okra,25.5,1300,72,1,Kogi
+2023-04,Okra,29,1400,75,1,Niger
+2023-05,Okra,27.8,1500,80,0,Enugu
+2023-01,Okra,25.9,650,60,1,Cross River
+2023-02,Okra,29.3,700,62,1,Zamfara
+2023-03,Okra,27.8,750,65,1,FCT
+2023-04,Okra,28,800,67,0,Ondo
+2023-05,Okra,26.5,850,70,0,Kebbi
+2023-01,Okra,26.5,1800,80,1,Jigawa
+2023-02,Okra,26.6,2000,82,1,Benue
+2023-03,Okra,24,2200,85,1,Zamfara
+2023-04,Okra,27.6,2500,87,1,Ogun
+2023-05,Okra,24.8,2700,90,1,Anambra
+2023-01,Yam,24.8,1400,75,1,Yobe
+2023-02,Yam,26.3,1500,78,1,Adamawa
+2023-03,Yam,25.7,1600,80,1,Bauchi
+2023-04,Yam,28.2,1550,85,0,Jigawa
+2023-05,Yam,29.6,1450,90,0,Kebbi
+2023-01,Yam,28.1,600,65,1,Cross River
+2023-02,Yam,24.5,700,67,1,Bauchi
+2023-03,Yam,27,800,70,1,Cross River
+2023-04,Yam,24,900,75,1,Ogun
+2023-05,Yam,24.2,1000,80,0,FCT
+2023-01,Yam,24.4,850,65,1,Delta
+2023-02,Yam,26.6,900,67,1,Kano
+2023-03,Yam,28.8,950,70,1,Anambra
+2023-04,Yam,29.7,980,75,0,Nasarawa
+2023-05,Yam,28.6,1000,78,0,Kogi
+2023-01,Yam,25.7,1100,68,1,Kano
+2023-02,Yam,28.1,1200,70,1,Niger
+2023-03,Yam,29,1300,72,1,Zamfara
+2023-04,Yam,27,1400,75,1,Lagos
+2023-05,Yam,28.2,1500,80,0,Ogun
+2023-01,Cotton,25.7,650,60,1,Imo
+2023-02,Cotton,24.5,700,62,1,Kano
+2023-03,Cotton,27.5,750,65,1,Osun
+2023-04,Cotton,29.3,800,67,0,Lagos
+2023-05,Cotton,25,850,70,0,Rivers
+2023-01,Cotton,26.3,1800,80,1,Niger
+2023-02,Cotton,25.4,2000,82,1,Abia
+2023-03,Cotton,25.6,2200,85,1,Kwara
+2023-04,Cotton,25.8,2500,87,1,Taraba
+2023-05,Cotton,29.8,2700,90,1,Plateau
+2023-01,Cotton,27.1,1400,75,1,Akwa Ibom
+2023-02,Cotton,24.9,1500,78,1,Enugu
+2023-03,Cotton,25.2,1600,80,1,Oyo
+2023-04,Cotton,27.5,1550,85,0,Osun
+2023-05,Cotton,29.2,1450,90,0,Akwa Ibom
+2023-01,Cotton,24.7,600,65,1,Katsina
+2023-02,Cotton,25.4,700,67,1,Gombe
+2023-03,Cotton,25,800,70,1,Kwara
+2023-04,Cotton,26.1,900,75,1,Bayelsa
+2023-05,Cotton,26.7,1000,80,0,Adamawa
+2023-01,Cocoa,28.7,850,65,1,Lagos
+2023-02,Cocoa,24.3,900,67,1,Katsina
+2023-03,Cocoa,30,950,70,1,Kaduna
+2023-04,Cocoa,26,980,75,0,Akwa Ibom
+2023-05,Cocoa,28.3,1000,78,0,Taraba
+2023-01,Cocoa,29.2,1100,68,1,Edo
+2023-02,Cocoa,26.2,1200,70,1,Sokoto
+2023-03,Cocoa,30,1300,72,1,Enugu
+2023-04,Cocoa,28.5,1400,75,1,Imo
+2023-05,Cocoa,28.6,1500,80,0,Delta
+2023-01,Cocoa,25.3,650,60,1,Edo
+2023-02,Cocoa,27,700,62,1,Borno
+2023-03,Cocoa,26.5,750,65,1,Benue
+2023-04,Cocoa,26.9,800,67,0,Abia
+2023-05,Cocoa,27.5,850,70,0,Lagos
+2023-01,Cocoa,25.3,1800,80,1,Imo
+2023-02,Cocoa,26,2000,82,1,Abia
+2023-03,Cocoa,28,2200,85,1,Sokoto
+2023-04,Cocoa,29.8,2500,87,1,Cross River
+2023-05,Cocoa,24.4,2700,90,1,Plateau

@@ -1,0 +1,40 @@
+Watch out for STEP ONE, THREE and FIVE
+
+STEP ONE
+   Load the MATLAB CROP PLANNER APP in your MATLAB environment
+   (this may take up to 2 minutes) especially on first launch
+
+STEP TWO
+   From the top left section of the app, click on the IMPORT FILE button
+
+STEP THREE
+   From the pop-up window, select (Nigeria_Climate_Data) dataset THIS DATASET ACCOUNTS FOR THE TEMPERATURE MAP 
+   TO DISPLAY THE TEMPERATURE MAP OF England (as well as other contries, provided having the same structured dataset),
+   UPLOAD (England_Climate_Data)
+
+STEP FOUR
+  i) In the Input Details section, select any Location, Soil Type and Crop
+   Note: Ensure the selected Soil is fit for the selected crop
+   e.g 
+         Loamy soil - Yam, maize, cocoa, potato
+         Silty Soil - Tomato, rice
+         Sandy Loam - Yam, cotton, cassava
+         Clay Loam - Beans, rice
+         Peaty Soil - Sweet potato
+
+   ii) In the Additional Details section, select the SOIL pH and WATER RETENTION ability of the soil
+
+STEP FIVE
+   Click on the View Personalized Plan button at the top right section of the app
+   (It may take few seconds to produce output. Re-click the button if it takes to long)
+
+FINALLY
+   To erase all inputs, click on the RELOAD APP button at the bottom left section of the app
+
+EXTRAS
+Slow respose is due to first lauch and will get better as the app is in use
+Re-click a button if it responds late on first click
+Error mesages have been fixed in place to ensure necessary selections have been made
+Duration of App response and window size might vary from devices
+
+ENJOY!
