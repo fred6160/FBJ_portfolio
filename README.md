@@ -2,7 +2,7 @@
 
 I’m a Computer Engineering undergraduate at the Federal University of Technology Minna (FUTMINNA), focused on **Artificial Intelligence, Machine Learning, Data Analytics, and Intelligent Engineering Systems**.
 
-I enjoy turning real-world problems into practical, data-driven solutions—from AI-powered safety and agricultural systems to intelligent control, engineering simulation, and automated software pipelines.
+I enjoy turning real-world problems into practical, data-driven solutions from AI-powered safety and agricultural systems to intelligent control, engineering simulation, and automated software pipelines.
 
 My work spans **Python, MATLAB/Simulink, SQL, AI/ML, Deep Learning, Data Analytics, and embedded systems**. I have experience developing machine learning models, engineering intelligent systems, building AI-powered applications, conducting research, and working with teams to turn ideas into functional prototypes.
 
