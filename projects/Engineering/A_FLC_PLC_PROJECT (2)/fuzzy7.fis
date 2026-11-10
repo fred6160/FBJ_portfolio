@@ -1,0 +1,77 @@
+[System]
+Name='fuzzy6'
+Type='mamdani'
+Version=2.0
+NumInputs=4
+NumOutputs=3
+NumRules=3
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='Voltage_Error'
+Range=[0 250]
+NumMFs=5
+MF1='NH':'trapmf',[-1 -1 -0.8 -0.6]
+MF2='Z':'trapmf',[-2.25 -0.25 0.25 2.25]
+MF3='PL':'trimf',[123.8 138.6 161.4]
+MF4='NL':'trimf',[87.5 112.6 125]
+MF5='PH':'trapmf',[139.9 210.1 225.1 274.9]
+
+[Input2]
+Name='Frequency_Error'
+Range=[0 60]
+NumMFs=5
+MF1='NH':'trimf',[-1 -1 -0.8]
+MF2='Z':'trapmf',[-2.25 -0.25 0.25 2.25]
+MF3='NL':'trimf',[21 27 30]
+MF4='PL':'trimf',[29.73 33.27 38.73]
+MF5='PH':'trapmf',[17.82 42.18 47.98 69.94]
+
+[Input3]
+Name='Load_Deman'
+Range=[0 190000]
+NumMFs=5
+MF1='VL':'trapmf',[-4976 4976 7976 22020]
+MF2='L':'trimf',[15000 30000 45000]
+MF3='M':'trimf',[57510 95790 107600]
+MF4='H':'trimf',[111500 118500 121500]
+MF5='VH':'trimf',[125000 145000 165000]
+
+[Input4]
+Name='PV_Generation'
+Range=[0 35000]
+NumMFs=4
+MF1='L':'trimf',[4000 10000 16000]
+MF2='M':'trimf',[14000 22000 30000]
+MF3='H':'trimf',[27190 32810 38260]
+MF4='Z':'trapmf',[-2.25 -0.25 0.25 2.25]
+
+[Output1]
+Name='Grid_Breaker_Control'
+Range=[0 1]
+NumMFs=2
+MF1='Open':'trapmf',[0 0 0.05 0.15]
+MF2='Closed':'trapmf',[0.85 0.95 1 1]
+
+[Output2]
+Name='Generator_Breaker_Control'
+Range=[0 1]
+NumMFs=2
+MF1='Open':'trapmf',[0 0 0.05 0.15]
+MF2='Closed':'trapmf',[0.85 0.95 1 1]
+
+[Output3]
+Name='Renewable_Breaker_Control'
+Range=[0 1]
+NumMFs=2
+MF1='Open':'trapmf',[0 0 0.05 0.15]
+MF2='Closed':'trapmf',[0.85 0.95 1 1]
+
+[Rules]
+2 2 3 3, 2 1 2 (1) : 1
+5 5 1 4, 1 2 2 (1) : 1
+3 4 4 1, 1 2 1 (1) : 1
